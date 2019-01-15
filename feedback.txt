@@ -1,0 +1,1 @@
+Nice work. You ViewModel/Controller is embedded into your View. If you separate that out (e.g. mouse drag) it'll be easier to maintain.
